@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I have extensive experience working with various video editing software and have been doing frontend dev for ~1.5 years. Currently, I'm working on BetterSEQTA+ which has ~20k users.
 
-* 🖥️  See my portfolio at [sethburkart.me (sadly I'm to broke to re-buy the domain)](http://sethburkart123-github-io.pages.dev/)
+* 🖥️  See my portfolio at [sethburkart.me (sadly I'm too broke to re-buy the domain)](http://sethburkart123-github-io.pages.dev/)
 * ✉️  You can contact me at [sethburkart7@gmail.com](mailto:sethburkart7@gmail.com)
 * 🚀  I'm currently working on [BetterSEQTA+](http://chromewebstore.google.com/detail/betterseqta+/afdgaoaclhkhemfkkkonemoapeinchel?hl=en&authuser=1)
 * 🤝  I'm open to collaborating on interesting projects, especially building AI models and interfaces to democratise personal inference 🥹

@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Seth Burkart
 ====================================================================================================================================
 
-I have extensive experience working with various video editing software and have been doing frontend dev for ~1.5 years. Currently, I'm working on BetterSEQTA+ which has ~20k users.
+I have extensive experience working with various video editing software and have been doing frontend dev for ~2.5 years. Currently, I'm working on BetterSEQTA+ which has ~20k users.
 
 * 🖥️  See my portfolio at [sethburkart.me](http://sethburkart123-github-io.pages.dev/)
 * ✉️  You can contact me at [sethburkart7@gmail.com](mailto:sethburkart7@gmail.com)

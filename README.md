@@ -3,10 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I have extensive experience working with various video editing software and have been doing frontend dev for ~1.5 years. Currently, I'm working on BetterSEQTA+ which has ~20k users.
 
-* 🖥️  See my portfolio at [sethburkart.me (sadly I'm too broke to re-buy the domain)](http://sethburkart123-github-io.pages.dev/)
+* 🖥️  See my portfolio at [sethburkart.me](http://sethburkart123-github-io.pages.dev/)
 * ✉️  You can contact me at [sethburkart7@gmail.com](mailto:sethburkart7@gmail.com)
 * 🚀  I'm currently working on [BetterSEQTA+](https://github.com/BetterSEQTA/BetterSEQTA-Plus)
-* 🤝  I'm open to collaborating on interesting projects, especially building AI models and interfaces to democratise personal inference 🥹
+* 🤝  I'm open to collaborating on interesting projects, especially building AI models and interfaces to democratise personal inference
+* ✨  Currently learning prompt engineering and pushing Generative AI to it's absolute limits!
 
 <a href="https://www.github.com/sethburkart123" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sethburkart123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/sethburkart" target="_blank" rel="noreferrer"><img

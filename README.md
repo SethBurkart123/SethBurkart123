@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I have extensive experience working with various video editing software and have been doing frontend dev for ~3 years. Currently, I'm working on BetterSEQTA+ which has ~60k (weekly active) users.
 
-* 🖥️  See my portfolio at [sethburkart.me](http://sethburkart123-github-io.pages.dev/)
+* 🖥️  See my portfolio at [seths.space](https://seths.space/)
 * ✉️  You can contact me at [sethburkart7@gmail.com](mailto:sethburkart7@gmail.com)
 * 🚀  I'm currently working on [BetterSEQTA+](https://github.com/BetterSEQTA/BetterSEQTA-Plus)
 * 🤝  I'm open to collaborating on interesting projects, especially building AI models and interfaces to democratise personal inference

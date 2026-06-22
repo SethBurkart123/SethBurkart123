@@ -14,7 +14,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I have extensive experience working with various video editing software and have been doing frontend dev for ~6 years.
 
-PREV: BetterSEQTA+ at approx. ~80k (weekly active) users.
+> [!INFO]
+> BetterSEQTA+ w/ ~80k (weekly active) users.
 
 * 🖥️  See my portfolio at [seths.space](https://seths.space/)
 * ✉️  You can contact me at [sethburkart1@gmail.com](mailto:sethburkart1@gmail.com)
